@@ -5,7 +5,7 @@
 
 body {
     background-color: #ebebeb;
-    font-family: 'Open Sans' , 'Montserrat';
+    font-family: 'Open Sans';
     color: #8f8f99;
     margin: 0 auto;
 }
@@ -42,6 +42,7 @@ body {
 
 h1 {
     color: #dd5555;
+    font-family: 'Open Sans';
 }
 
 .social {
@@ -79,4 +80,3 @@ a {
     text-align: center;
     border-bottom: 20px solid #ebebeb;
 }
-    
