@@ -80,3 +80,21 @@ a {
     text-align: center;
     border-bottom: 20px solid #ebebeb;
 }
+
+.poster {
+    height: 40%;
+    width: 20%;
+    position: relative;
+    right: 50%;
+}
+
+.synopsis {
+    position: relative;
+    left: 40px;
+    bottom: 120px;
+}
+
+.postandsyn {
+    position: relative;
+    top: 60px;
+}
